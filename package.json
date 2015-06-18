@@ -1,0 +1,23 @@
+{
+  "name": "react-0.12",
+  "version": "0.12.2",
+  "description": "react 0.12.2 mirror",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zimok/react-0.12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zimok/react-0.12/issues"
+  },
+  "homepage": "https://github.com/zimok/react-0.12"
+}
